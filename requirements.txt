@@ -24,3 +24,4 @@ vaderSentiment
 beautifulsoup4
 Scrapy3
 tensorflow
+pandas-datareader
